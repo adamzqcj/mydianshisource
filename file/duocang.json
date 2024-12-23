@@ -111,28 +111,8 @@
 		"name": "短剧"
 	}, 
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
+      "url": "https://raw.kkgithub.com/supermeguo/BoxRes/main/Myuse/cat.json",
       "name": "锅大侠"
-    },
-    {
-      "url": "http://我不是.摸鱼儿.top",
-      "name": "摸鱼儿"
-    },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "饭太硬"
-    },
-    {
-      "url": "https://xhdwc.tk/0",
-      "name": "骚零接口"
-    },
-    {
-      "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json",
-      "name": "liulian"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "PG one"
     },
     {
       "url": "https://raw.liucn.cc/box/m.json",
@@ -148,7 +128,7 @@
     },
     {
       "url": "https://notabug.org/wc/3/raw/master/100.json",
-      "name": "影视仓接口2"
+      "name": "春春影视"
     }
   ]
 }
