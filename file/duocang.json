@@ -1,9 +1,21 @@
 {
   "urls": [
     {
-      "url": "https://gitgh.sw0721.us.kg/sj5efl/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json",
+      "url": "https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json",
       "name": "我的测试"
     },
+    {
+      "url": "https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json",
+      "name": "2hacc-TVBox"
+    },    
+    {
+      "url": "https://raw.kkgithub.com/2hacc/TVBox/main/oktv.json",
+      "name": "2hacc-TVBox-备用"
+    }, 
+    {
+      "url": "https://raw.kkgithub.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json",
+      "name": "Dong-learn9"
+    },     
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
       "name": "锅大侠"
