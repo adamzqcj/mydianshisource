@@ -123,6 +123,10 @@
     {
       "url": "https://notabug.org/wc/3/raw/master/100.json",
       "name": "春春影视"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/app.json",
+      "name": "其人之道"
     }
   ]
 }
